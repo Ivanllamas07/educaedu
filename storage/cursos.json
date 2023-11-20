@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "titulo": "Curso test",
+        "descripcion": "Semester & Academic Year - Diseño Gráfico y Digital.Conoce el diseño gráfico desde su origen y conviértete en especialista en diseño digital, el campo más demandado hoy...",
+        "precio": 5,
+        "opiniones": [
+            {
+                "nombre_usuario": "Ivanllamas07",
+                "texto": "Buen curso",
+                "valoracion": 5
+            }
+        ]
+    }
+]
